@@ -1,4 +1,5 @@
 - konsitensi push commit 1x dalam sehari
 - membuat mini project
 - join foruim
+- kolaborasi dengan expert
 
