@@ -1,8 +1,8 @@
 - Javascript
  - frontend
  - backend
-  java spring
-  mysql
+angular
+react
 - node js
 - github
 - vue
